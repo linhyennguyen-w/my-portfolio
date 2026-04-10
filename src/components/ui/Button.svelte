@@ -5,7 +5,7 @@
 
 <button
 	onclick={onClick}
-	class="group relative inline-flex items-center gap-4 overflow-hidden rounded-4xl bg-primary px-6 py-3 font-medium text-surface lg:px-4 lg:py-3 xl:px-6 xl:py-4 xl:text-lg 2xl:text-xl {$$props.class}"
+	class="group relative inline-flex cursor-pointer items-center gap-4 overflow-hidden rounded-4xl bg-primary px-6 py-3 font-medium text-surface lg:px-4 lg:py-3 xl:px-6 xl:py-4 xl:text-lg 2xl:text-xl {$$props.class}"
 >
 	<span class="h-2 w-2 rounded-full bg-surface"></span>
 	<span class="relative h-8 overflow-hidden lg:h-6">

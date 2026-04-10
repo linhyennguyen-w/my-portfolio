@@ -31,6 +31,20 @@
 
 	$: projects = [
 		{
+			name: 'Portfolio',
+			description: $t('exp.portfolio.description'),
+			link: 'https://linhyennguyen-portfolio.vercel.app/',
+			tech: 'Svelte, Tailwind, VantaJS, Vercel',
+			time: '11/2025 - 12/2025',
+			company: $t('exp.prj'),
+			role: $t('exp.role_dev'),
+			responsibilities: [
+				$t('exp.portfolio.res.res_001'),
+				$t('exp.portfolio.res.res_002'),
+				$t('exp.portfolio.res.res_003')
+			]
+		},
+		{
 			name: 'Dokall',
 			description: $t('exp.dokall.description'),
 			link: $t('exp.product'),
@@ -51,7 +65,7 @@
 		{
 			name: 'Scan Art',
 			description: $t('exp.scanart.description'),
-			link: 'https://www.scanart.app/',
+			link: 'N/A',
 			tech: 'Flutter, Svelte, Tailwind, NestJS, PostgreSQL,',
 			time: '09/2023- 05/2024',
 			company: $t('exp.company'),
@@ -67,7 +81,7 @@
 		{
 			name: 'Storii',
 			description: $t('exp.storii.description'),
-			link: 'https://linhyennguyen-work.github.io/storii/',
+			link: 'https://linhyennguyen-w.github.io/storii/',
 			tech: 'HTML, CSS, Javascript, Jquery',
 			time: ' 12/2020- 01/2021',
 			company: $t('exp.prj'),

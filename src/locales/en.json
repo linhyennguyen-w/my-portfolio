@@ -36,7 +36,7 @@
 		"title_skills": "Skills",
 		"title_prj": "Projects",
 		"product": "Internal Product",
-		"prj": "Internal Project",
+		"prj": "Personal Project",
 		"company": "Netpower Vietnam",
 		"role_dev": "Front-end Developer",
 		"role_intern": "Intern",
@@ -59,6 +59,14 @@
 			"company": "Company",
 			"role": "Role",
 			"responsibilities": "Responsibilities"
+		},
+		"portfolio": {
+			"description": "Personal showcase website for professional projects and technical skills.",
+			"res": {
+				"res_001": "Developed a modern UI featuring multi-language support (i18n) and Dark/Light mode switching.",
+				"res_002": "Integrated VantaJS for interactive background effects to enhance visual engagement.",
+				"res_003": "Ensured Responsive Design and optimized page performance for seamless user experience."
+			}
 		},
 		"dokall": {
 			"description": "A communication and collaboration platform for businesses with workspace functionality, real-time messaging, voice/video calling, notes management, and task management.",

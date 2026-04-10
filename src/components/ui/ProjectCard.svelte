@@ -21,11 +21,11 @@
 		isShowDetails = !isShowDetails;
 	}
 
-	$: translateDescription = (name: string): string => {
+	const translateDescription = (name: string): string => {
 		return $t('exp.' + name.toLowerCase().replace(/\s+/g, '') + '.description');
 	};
 
-	$: translateKey = (key: string): string => {
+	const translateKey = (key: string): string => {
 		return $t('exp.prj_title.' + key);
 	};
 

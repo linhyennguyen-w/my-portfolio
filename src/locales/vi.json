@@ -61,6 +61,14 @@
 			"role": "Vai trò",
 			"responsibilities": "Nhiệm vụ"
 		},
+		"portfolio": {
+			"description": "Website cá nhân trưng bày năng lực và các dự án thực tế.",
+			"res": {
+				"res_001": "Xây dựng giao diện và các chức năng như đa ngôn ngữ, theme.",
+				"res_002": "Đảm bảo giao diện hoạt động ổn định trên nhiều thiết bị và trình duyệt bằng kỹ thuật Responsive Design.",
+				"res_003": "Kiểm thử giao diện, phát hiện và sửa lỗi."
+			}
+		},
 		"dokall": {
 			"description": "Nền tảng giao tiếp và cộng tác doanh nghiệp với hệ thống workspace, cung cấp nhắn tin, gọi thoại/video real-time, quản lý ghi chú và quản lý task.",
 			"res": {
